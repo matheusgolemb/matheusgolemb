@@ -18,27 +18,20 @@
 
 ---
 
-### :man_technologist: About Me :
-  <!--
-Beginner Web Developer. Currently improving my skills in JavaScript and
-frameworks, PHP, databases and back-end.
-Equipped with background knowledge of accounting, data management, and
-dashboards.
-Proficient in various technologies, including HTML/CSS, JavaScript (jQuery,
-AngularJS, and Vuejs), PHP, Git/Github, and VBA.
-Able to effectively self-manage during independent projects, as well as collaborate
-in a team environment. Always looking for opportunities to bring more efficiency to
-tasks and learn new topics.
+### :man_technologist: How I started programming :
 
-I decided to change my occupation of over 11 years of working in Maintenance and Electrical Engineering to start a new career in Front-End Web Development.
+<div>
+  <p>
+My name is Matheus Santana Golembiewski, from Brazil. Nice to meet you! I started my professional career as an accountant and worked in that field for 4 years. I used to work a lot with Excel and do some repetitive tasks... But, after I learned about VBA (Visual Basic for Applications) my mind exploded! <img src="https://github.com/matheusgolemb/matheusgolemb/blob/main/mind_blown-pew.gif" width="50"/>
+  </p>
+  <p>
+I discovered that by writing codes, the computer would do everything for me! And faster and without human mistakes! After that, I learned about VBA and automated a lot of tasks that I had in my work. But I also discovered that other technologies were much more powerful than VBA. So I decided to come to Canada to do a Web Development course, to learn new technologies! And here I am! I am an avid learner and currently, I am improving my skills in PHP, Javascript, and databases!
+  </p>
+</div>
 
-I've been working and dedicated long enough time to learn about Web Development and become a great professional. I'm ready to acquire new knowledge and skills and I’m certain that joining your team is a benefit for both sides. I’m ready for long-time cooperation.
+---
 
--->
-My name is Matheus Santana Golembiewski, from Brazil. Nice to meet you!
-I started my professional carrer as an accountant and worked in that field for 4 years. I used to work a lot with Excel and do some repetitive tasks... But, after I learned about VBA (Visual Basic for Applications) my mind exploded!
-
-![](https://github.com/matheusgolemb/https://github.com/snipe/animated-gifs/blob/master/mind-blown/mind_blown-pew.gif)
+### :hammer_and_wrench: About me :
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
 
@@ -78,19 +71,3 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgolemb&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
-**matheusgolemb/matheusgolemb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
